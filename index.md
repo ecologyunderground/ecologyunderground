@@ -1,5 +1,5 @@
 <meta name="google-site-verification" content="yChs9SYO9StPknt31jku93Rq1j5V8WQXG57jUGC2ybw" />
-![](https://github.com/KivlinLab/MASMC2019/blob/master/SmokiesPicture.jpg?raw=true)
+![](https://github.com/ecologyunderground/blob/master/RMBL_Image3_2018_11_15.jpeg?raw=true)
 # **Ecology Underground 2020** 
 ## **Information**
 
