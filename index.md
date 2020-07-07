@@ -6,7 +6,8 @@
 ## **Information**
 
 ## **Registration**
-See link here to register: 
+See link here to register: (need to add once we have the google form)
+
 Registration is free.
 
 ## **Itinerary**
