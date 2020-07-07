@@ -6,8 +6,9 @@
 ## **Information**
 
 ## **Registration**
-Free!
- 
+See link here to register: 
+Registration is free.
+
 ## **Itinerary**
 
 ### Tuesday, August 4th
