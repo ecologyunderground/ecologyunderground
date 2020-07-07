@@ -70,17 +70,27 @@ Session organization:
 Morning from 9.30 to 11.30 am (EDT)
 
 Introduction 
+
 Breakout - icebreaker 
+
 6 talks- OOS 62
+
 Burning questions 
+
 6 talks - OOS 73
+
 Burning question
+
 Breakout - discussion 
 
 Afternoon from 1.00 to 5 pm (EDT)
+
 Breakout- Icebreaker 
+
 6 talks - OOS 53
+
 Breakouts/discussion
+
 Networking event
 
 Description: 
