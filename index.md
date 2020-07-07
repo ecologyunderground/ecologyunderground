@@ -30,9 +30,9 @@ Session organization:
 
 State of the field to set the stage
 
-1:00pm- 1:05: Introduction of 2 days agenda
+1:00pm- 1:05: Introduction 
 
-1:05pm- 1:15pm: Star vision speech (tbd)
+1:05pm- 1:15pm: Star vision talk (tbd)
 
 1:15pm- 2.15 pm - INS 20
 
@@ -43,13 +43,11 @@ break
 break
 
 3.45- 4.45 pm - OOS7
-Note taker for the report: Moira
+
 
 Biogeosciences + Soil Ecology + Agroecology  mixer  5:00pm
 
-Number of participants: 50 to 75
 
-Number of speakers: 21 speakers
 
 Description
 
@@ -70,8 +68,7 @@ Session organization:
 
 Morning from 9.30 to 11.30 am (EDT)
 
-Introduction by one of the session organizer/co-organizer: give an overview
-of the overarching session
+Introduction 
 Breakout - icebreaker 
 6 talks- OOS 62
 Burning questions 
@@ -84,11 +81,6 @@ Breakout- Icebreaker
 6 talks - OOS 53
 Breakouts/discussion
 Networking event
-
-Number of participants: 50 to 75
-
-
-Number of speakers: 18
 
 Description: 
 
