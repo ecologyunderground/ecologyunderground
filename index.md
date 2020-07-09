@@ -21,8 +21,6 @@ INS 20 - Harnessing the Soil Ecological Data Revolution: Challenges, Opportuniti
 
 OOS 21 - Ecological Responses to Drought Across Scales (60 min)
 
-(break = 10-15min)
-
 OOS 7 - Linking Climate, Microbial Adaptation, and Ecosystem Processes (60min)
 
 
@@ -31,9 +29,11 @@ Session organization:
 
 State of the field to set the stage
 
-1:00pm- 1:05: Introduction 
+12.30
 
-1:05pm- 1:15pm: Star vision talk (tbd)
+1:00pm- 1:05: Introduction of 2 days agenda
+
+1:05pm- 1:15pm: Star vision speech (tbd)
 
 1:15pm- 2.15 pm - INS 20
 
@@ -44,9 +44,11 @@ break
 break
 
 3.45- 4.45 pm - OOS7
+Chair session, chatbox responsible + Note taker for the report,: Moira
+Chat box responsible: Jen
+Speakers: Ed Hall, Amy Zanne, Alexander Chase, Alejandra Rodriguez Verdugo, Elsa Abs, Adriana Romero Olivares.
 
-
-Biogeosciences + Soil Ecology + Agroecology  mixer  5:00pm
+5:00pm: Biogeosciences + Soil Ecology + Agroecology  mixer
 
 
 
