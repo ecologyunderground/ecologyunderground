@@ -6,7 +6,7 @@
 ## **Information**
 
 ## **Registration**
-See link here to register: https://forms.gle/aate3UnShhdN7t79A
+See link here to register: https://forms.gle/LbPYEcyAjWoLpEnb9
 
 Registration is free.
 
