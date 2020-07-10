@@ -6,7 +6,7 @@
 ## **Information**
 
 ## **Registration**
-See link here to register: https://docs.google.com/spreadsheets/d/1dwLkmQP6c9xvZd5qpYZ3mZL2W6kjaOS5gBFtLHGAu6E/edit#gid=0
+See link here to register: https://forms.gle/aate3UnShhdN7t79A
 
 Registration is free.
 
