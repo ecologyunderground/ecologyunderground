@@ -29,9 +29,9 @@ Session organization:
 
 ?- ? +5min: Introduction of 2 days agenda
 
-? - 1:05 pm: Star vision speech (Asmeret Asefaw Berhe, to be confirmed)
+?- 1:05 pm: Star vision speech (Asmeret Asefaw Berhe, to be confirmed)
 
-1:05pm - 1:15 pm: Introduction of the Tuesday 3 sessions
+1:05pm- 1:15 pm: Introduction of the Tuesday 3 sessions
 
 1:15pm- 2.15 pm: INS 20
 
@@ -71,31 +71,51 @@ OOS 53 - Bridging the Gap Between Fine-Root and Fungal Functional Traits
 
 Session organization: 
 
-Morning from 9.30 to 11.30 am (EDT)
+Morning: from 9.30 to 11.30 am
 
-Introduction 
+9.30- 9.35 am: Introduction by one of the session organizer/co-organizer: give an overview of this group and get people excited
 
-Breakout - icebreaker 
+9.35- 9.40 am: Breakout - icebreaker (5 ppl/room, draw your favorite belowground organism)
 
-6 talks- OOS 62
+9.40- 10.15 am: OOS 62  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.40- 9.45 am: Luke McCormack  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.45- 9.50 am: Larry M. York  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.50- 9.55 am: Deliang Kong  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.55- 10.00 am: Albina Khasanova  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.05- 10.10 am: Peng Wang  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.10- 10.15 am: Mingzhen Lu  
 
-Burning questions 
+10.15- 10.20 am: Burning questions - live + chat
 
-6 talks - OOS 73
+10.20- 10.50 am: OOS 73  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.20- 10.25 am: Oscar J. Valverde-Barrantes  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.25- 10.30 am: Daniela Yaffar  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.30- 10.35 am: Kelly M. Andersen  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.35- 10.40 am: Magda Garbowski  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.40- 10.45 am: Marie Arnaud  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.45- 10.50 am: Chris M. Smith-Martin  
 
-Burning question
+10.50- 10.55 am: Burning question - live + chat
 
-Breakout - discussion 
+10.55- 11.30 am: Breakout - discussion (discuss the themes that were recurrent from the google drive file where ppl put their email addresses)
 
-Afternoon from 1.00 to 5 pm (EDT)
 
-Breakout- Icebreaker 
+Afternoon: from 1.00 to 2.30 pm
 
-6 talks - OOS 53
+1.00- 1.05 pm: Breakout- Icebreaker (5 ppl/room, What was your favorite food during lockdown?)
 
-Breakouts/discussion
+1.05- 1.35 pm: OOS 53  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.05- 1.10 pm: Monique Weemstra  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.10- 1.15 pm: Bala Chaudhary  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.15- 1.20 pm: Christopher W. Fernandez  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.20- 1.25 pm: Monika A. Gorzelak  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.25- 1.30 pm: Brian J. Pickles  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.30- 1.35 pm: Colleen M. Iversen  
 
-Networking event
+1.35- 2.30 pm: Breakouts/discussion
+
+
+
 
 Description: 
 
