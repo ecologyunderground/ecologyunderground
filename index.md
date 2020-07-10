@@ -42,9 +42,9 @@ Session organization:
 (15min break)
 
 3.45- 4.45 pm: OOS7
-    3.45- 3.50 pm: Session chair's introduction of the session
-    3.50- 4.00 pm: 1min/1slide summary of speakers' talks
-    4.00- 4.45 pm: Q&A with the panel of speakers
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.45- 3.50 pm: Session chair's introduction of the session
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.50- 4.00 pm: 1min/1slide summary of speakers' talks
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.00- 4.45 pm: Q&A with the panel of speakers
 Panel speakers: Ed Hall, Amy Zanne, Alexander Chase, Alejandra Rodriguez Verdugo, Elsa Abs, Adriana Romero Olivares.
 Chair session + Note taker for the meeting report: Moira Hough
 Chatbox mediator: Jennifer Jones
