@@ -23,7 +23,9 @@ OOS 21 - Ecological Responses to Drought Across Scales (60 min)
 
 OOS 7 - Linking Climate, Microbial Adaptation, and Ecosystem Processes (60min)
 
+Description
 
+Day one will focus on key frontiers in understanding the response of belowground systems to climate change. One of the best ways of predicting future ecosystem responses to global change is to understand the mechanisms driving current soil community assembly and functions across disparate environments. In INS20, we will set the stage by gathering ten soil ecologists from disparate disciplines and scientific approaches from ecosystem modelers, to soil biogeochemists, and soil biogeographers to create a unified approach to understanding soil ecosystems at the global scale. With climate change, rainfall patterns are expected to change in the future, with tremendous consequences for humans and ecosystems. In OOS21, we feature work quantifying microbial, plant, and ecosystem response to drought, with particular focus on grasslands and croplands and studies that aim to scale or generalize ecosystem responses to drought. The response of ecosystem processes to climate change will vary depending on both microbial community and evolutionary dynamics, but the interactions between these forces are under-studied. In OOS7 we feature investigations in rapid evolution, community assembly, trait-based models, and eco-evolutionary dynamics to link climate, microbial community, and ecosystem processes. Together, these sessions will provide key insights needed to understand and model how below-ground ecosystems are responding to climate change.
 
 Session organization: 
 
@@ -53,11 +55,8 @@ Chatbox mediator: Jennifer Jones
 5:00pm: Biogeosciences + Soil Ecology + Agroecology  mixer
 
 
-Description
-
-Day one will focus on key frontiers in understanding the response of belowground systems to climate change. One of the best ways of predicting future ecosystem responses to global change is to understand the mechanisms driving current soil community assembly and functions across disparate environments. In INS20, we will set the stage by gathering ten soil ecologists from disparate disciplines and scientific approaches from ecosystem modelers, to soil biogeochemists, and soil biogeographers to create a unified approach to understanding soil ecosystems at the global scale. With climate change, rainfall patterns are expected to change in the future, with tremendous consequences for humans and ecosystems. In OOS21, we feature work quantifying microbial, plant, and ecosystem response to drought, with particular focus on grasslands and croplands and studies that aim to scale or generalize ecosystem responses to drought. The response of ecosystem processes to climate change will vary depending on both microbial community and evolutionary dynamics, but the interactions between these forces are under-studied. In OOS7 we feature investigations in rapid evolution, community assembly, trait-based models, and eco-evolutionary dynamics to link climate, microbial community, and ecosystem processes. Together, these sessions will provide key insights needed to understand and model how below-ground ecosystems are responding to climate change.
-
 ### Wednesday, August 5th
+
 Time (EDT):  9.30 to 11.30 am (morning) and 1.00 to 2.30 pm (afternoon)
 
 Sessions: 
@@ -76,11 +75,11 @@ Session organization:
 
 Morning: from 9.30 to 11.30 am
 
-9.30- 9.35 am: Introduction by one of the session organizer/co-organizer
+  9.30- 9.35 am: Introduction by one of the session organizer/co-organizer
 
-9.35- 9.40 am: Breakout - icebreaker
+  9.35- 9.40 am: Breakout - icebreaker
 
-9.40- 10.15 am: OOS 62  
+  9.40- 10.15 am: OOS 62  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.40- 9.45 am: Luke McCormack  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.45- 9.50 am: Larry M. York  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.50- 9.55 am: Deliang Kong  
@@ -88,9 +87,9 @@ Morning: from 9.30 to 11.30 am
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.05- 10.10 am: Peng Wang  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.10- 10.15 am: Mingzhen Lu  
 
-10.15- 10.20 am: Burning questions - live + chat
+  10.15- 10.20 am: Burning questions - live + chat
 
-10.20- 10.50 am: OOS 73  
+  10.20- 10.50 am: OOS 73  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.20- 10.25 am: Oscar J. Valverde-Barrantes  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.25- 10.30 am: Daniela Yaffar  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.30- 10.35 am: Kelly M. Andersen  
@@ -98,19 +97,19 @@ Morning: from 9.30 to 11.30 am
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.40- 10.45 am: Marie Arnaud  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.45- 10.50 am: Chris M. Smith-Martin  
 
-10.50- 10.55 am: Burning question - live + chat
+  10.50- 10.55 am: Burning question - live + chat
 
-10.55- 11.30 am: Breakout - discussion 
+  10.55- 11.30 am: Breakout - discussion 
 
 Afternoon: from 1.00 to 2.30 pm
 
-1.00- 1.05 pm: Breakout- Icebreaker 
+  1.00- 1.05 pm: Breakout- Icebreaker 
 
-1.05- 1.35 pm: OOS 53  
+  1.05- 1.35 pm: OOS 53  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.05- 1.10 pm: Monique Weemstra  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.10- 1.15 pm: Bala Chaudhary  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.15- 1.20 pm: Christopher W. Fernandez  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.20- 1.25 pm: Brian J. Pickles
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.25- 1.30 pm: Colleen M. Iversen
 
-1.30- 2 pm: Breakouts/discussion
+  1.30- 2 pm: Breakouts/discussion
