@@ -68,6 +68,10 @@ OOS 73 - Root Dynamics in a Changing World: Deep and Dark Effects on Ecosystem F
 
 OOS 53 - Bridging the Gap Between Fine-Root and Fungal Functional Traits
 
+Description: 
+
+We are experiencing a belowground data revolution: Like mushrooms, data on fine-root and fungal traits are sprouting up everywhere. It is time to tackle some of the biggest questions and shape the future directions in belowground ecology. OOS 62 will lead the way by featuring presentations on the most recent accomplishment of root trait studies. In particular, speakers will approach the genetic mechanisms of root trait variation, the role of root traits in ecosystem processes or the interaction between root traits and soil microorganisms. In turn, OOS 73 sheds light on the deep and dark effects of root dynamics on ecosystem functions. Researchers in this session focus on the understudied tropical biome to understand the role of roots in forest resilience, drought resistance or reforestation. Lastly, OOS 53 proposes a path forward: Bridging the gap between fine-root and fungal functional traits. Speakers in this session take up a challenge by linking fine root traits to mycorrhizal fungal traits, to mycorrhizal networks and beyond. Together, we will pave the way for  next generation research on belowground trait-based ecology.
+
 Session organization: 
 
 Morning: from 9.30 to 11.30 am
@@ -98,7 +102,6 @@ Morning: from 9.30 to 11.30 am
 
 10.55- 11.30 am: Breakout - discussion 
 
-
 Afternoon: from 1.00 to 2.30 pm
 
 1.00- 1.05 pm: Breakout- Icebreaker 
@@ -111,7 +114,3 @@ Afternoon: from 1.00 to 2.30 pm
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.25- 1.30 pm: Colleen M. Iversen
 
 1.30- 2 pm: Breakouts/discussion
-
-Description: 
-
-We are experiencing a belowground data revolution: Like mushrooms, data on fine-root and fungal traits are sprouting up everywhere. It is time to tackle some of the biggest questions and shape the future directions in belowground ecology. OOS 62 will lead the way by featuring presentations on the most recent accomplishment of root trait studies. In particular, speakers will approach the genetic mechanisms of root trait variation, the role of root traits in ecosystem processes or the interaction between root traits and soil microorganisms. In turn, OOS 73 sheds light on the deep and dark effects of root dynamics on ecosystem functions. Researchers in this session focus on the understudied tropical biome to understand the role of roots in forest resilience, drought resistance or reforestation. Lastly, OOS 53 proposes a path forward: Bridging the gap between fine-root and fungal functional traits. Speakers in this session take up a challenge by linking fine root traits to mycorrhizal fungal traits, to mycorrhizal networks and beyond. Together, we will pave the way for  next generation research on belowground trait-based ecology.
