@@ -110,6 +110,7 @@ Afternoon: from 1.00 to 2.30 pm
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.10- 1.15 pm: Bala Chaudhary  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.15- 1.20 pm: Christopher W. Fernandez  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.20- 1.25 pm: Brian J. Pickles
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.25- 1.30 pm: Colleen M. Iversen
 
   1.30- 2 pm: Breakouts/discussion
