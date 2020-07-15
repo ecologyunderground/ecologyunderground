@@ -2243,6 +2243,7 @@
 			display: block;
 		}
 
+
 		.image.left, .image.right {
 			max-width: 40%;
 		}
@@ -2757,6 +2758,14 @@
 			position: absolute;
 			top: 0;
 		}
+		
+		
+		#header.alt img {
+		  float: right;
+		  max-width: 9%;
+		  height: auto;
+		  padding-top: 0.5em;
+		}
 
 		#header .container {
 			position: relative;
@@ -2784,6 +2793,7 @@
 				#header.alt h1 a {
 					color: #FFF;
 				}
+				
 
 		@media screen and (max-width: 980px) {
 
